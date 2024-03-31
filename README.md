@@ -28,9 +28,11 @@ Customer Segmentation:
 * Data-driven recommendations: Based on the analysis, identify regions or cities with high potential for new branch offices, considering factors like customer concentration, market growth, and customer segmentation.
 
 **Disclaimer**
+
 This is a simulated project using sample data. The results and recommendations may not be directly applicable to real-world business decisions by Gamma.
 
 **Future Considerations**
+
 Integrate additional data sources (e.g., market research, competitor analysis) to further refine branch office selection criteria.
 Conduct a cost-benefit analysis to evaluate the financial feasibility of opening new branch offices in identified locations.
 This repository documents the entire data analysis process, including data cleaning, exploration, visualization, and model building (if applicable). The code used for the analysis will be included in the repository, allowing for transparency and reproducibility.
